@@ -3,9 +3,9 @@
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/codecov/codecov-php",
-    "description": "demo orepo",
+    "description": "demo dorepo",
     "keywords": ["code coverage", "codecov", "coverage reports"],
-    "authors":   [
+    "authors":  [
         {
             "name": "codecov.io",
             "email": "hello@codecov.io"
